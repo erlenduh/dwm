@@ -2,6 +2,8 @@
 ## Installation
 ```
 git clone https://github.com/erlenduh/dwm
+cd dwm
+sudo make clean install
 ```
 ## Applied patches
 - Fullgaps
