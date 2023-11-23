@@ -9,3 +9,4 @@ sudo make clean install
 - Fullgaps
 - Hide vacant tags
 - Swallow
+- Autostart
